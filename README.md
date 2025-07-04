@@ -36,7 +36,7 @@ All classes have validation and error handling
 - **User simulation**: Can initialize different users with varying preferences, also allows user to enter their name and age
 - **Keyword-based intent classification**: Automatically detects music, fitness, study, or general requests
 
-## Key Features
+## Other Main Features
 
 - **Smart keyword extraction**: Detects mood (such as "happy", "energetic"), fitness level ("beginner", "advanced"), and topics ("oop", "python") from natural language by searching through lists of keywords for matches
 - **Premium users**: Aditional responses for premium users, though these would be expanded in the real model
